@@ -1,7 +1,7 @@
 <?php
 
 /*
-* Helper Functions
+* Helper Functions - Sim Track Manager
 */
 
 

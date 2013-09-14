@@ -381,15 +381,6 @@ class STM_Functions {
                     }	
                 }
                 
-                // this is a bad hack. I need to centralize this functionality so that I can add default spiff payout
-                // values on a plan by plan basis... 
-
-                //if ( $table_name == 'h2o_family' ) { $act_val_var = '2'; }
-
-                // end bad hack
-
-                //$res_spiff_val[$s] = STM_Functions::calc_spiff_payment( $act_val_var, $agent_percent );
-                
                 $res_spiff_val[$s] = $act_val_var;
                 
                 
